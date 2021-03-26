@@ -1,4 +1,4 @@
-# Methode à noyau MVA2021
+# Méthode à noyau MVA2021
 
 Hippolyte Mayard, Louis Maestrati, Gaël Alkan. 
 
